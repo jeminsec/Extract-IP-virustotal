@@ -40,14 +40,14 @@ Adds a delay (default: 16s) between API calls to respect VirusTotal’s free tie
 ## 🚀 Usage
 ### 1. Clone Repo and Make Executable
 ```
-git clone https://github.com/jeminsec/vt-collect-ips.git
-cd vt-collect-ips
-chmod +x vt-collect-ips.sh
+git clone https://github.com/jeminsec/Extract-IP-virustotal
+cd Extract-IP-virustotal 
+chmod +x Extract-IP-virustotal.sh
 ```
 
 ### 2. Run this script
 ```
-./vt-collect-ips.sh
+./Extract-IP-virustotal.sh
 ```
 
 > [!NOTE]
