@@ -1,6 +1,6 @@
 # Collect subdomain and IP from Virustotal
 
-<ins> Extract IP Virus Total </ins> is a Bash automation tool that leverages the VirusTotal API v2 to fetch subdomains of a given root domain and extract their associated IP addresses.
+[Extract IP Virus Total](https://github.com/jeminsec/Extract-IP-virustotal) is a Bash automation tool that leverages the VirusTotal API v2 to fetch subdomains of a given root domain and extract their associated IP addresses.
 The tool is designed for** bug bounty hunters, penetration testers, and researchers** who want to quickly collect infrastructure intelligence (subdomains + resolved IPs) in a structured and customizable way.
 
 # Features
